@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myTip</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bill_amount_label">Bill Amount</string>
+    <string name="percent_label">Percent</string>
+    <string name="tip_label">Tip</string>
+    <string name="total_label">Total</string>
+    <string name="percent_text_view">15%</string>
+    <string name="percent_down_button">-</string>
+    <string name="percent_up_button">+</string>
+    <string name="tip_text_view">$0.00</string>
+    <string name="total_text_view">$0.00</string>
+    <string name="bill_amount_edit_text">$34.60</string>
+
+</resources>
